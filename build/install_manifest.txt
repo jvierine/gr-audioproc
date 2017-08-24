@@ -1,0 +1,9 @@
+/usr/local/lib/cmake/audioproc/audioprocConfig.cmake
+/usr/local/include/audioproc/api.h
+/usr/local/lib/python2.7/dist-packages/audioproc/__init__.py
+/usr/local/lib/python2.7/dist-packages/audioproc/vocode.py
+/usr/local/lib/python2.7/dist-packages/audioproc/__init__.pyc
+/usr/local/lib/python2.7/dist-packages/audioproc/vocode.pyc
+/usr/local/lib/python2.7/dist-packages/audioproc/__init__.pyo
+/usr/local/lib/python2.7/dist-packages/audioproc/vocode.pyo
+/usr/local/share/gnuradio/grc/blocks/audioproc_vocode.xml
